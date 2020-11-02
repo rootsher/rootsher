@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=rootsher&show_icons=true&theme=graywhite)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rootsher&layout=compact&theme=graywhite)
 
 <!--
 **rootsher/rootsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
