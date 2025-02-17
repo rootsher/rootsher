@@ -52,7 +52,7 @@ DevOps enthusiast with a passion for **Terraform** & **Kubernetes**. **React**, 
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-## Current exploration 📖
+## Current exploration
 
 Currently exploring **secure, high-performance network architectures in Azure**, focusing on **Application Gateway (WAF v2) with end-to-end TLS**, private connectivity, and traffic optimization. Key areas of interest include:
 - **Hub-and-spoke topologies** using **Azure Virtual Network Peering** (transitive routing via **NVA / Azure Route Server**)
