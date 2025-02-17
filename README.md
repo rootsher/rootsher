@@ -1,3 +1,5 @@
+DevOps enthusiast with a passion for **Terraform** & **Kubernetes**. **React**, **TypeScript**, **Next.js** & **Node.js** developer focused on building **scalable**, **high-performance** solutions. Driven by **automation**, **IaC**, and optimizing workflows to deliver **seamless**, **efficient** infrastructures and applications.
+
 ## Technologies and Tools (in progress - looking for badges...xd)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)
@@ -58,5 +60,7 @@ Currently exploring **secure, high-performance network architectures in Azure**,
 - **Cross-region load balancing** with **Azure Front Door** + **Private Link**
 - **Traffic segmentation and policy enforcement** via **User-Defined Routes (UDR)** + **NSG automation with Terraform**
 - **Inter-VNet security hardening** with **Azure Firewall Premium (IDPS, TLS inspection, threat intelligence)**
+
+---
 
 <img src="https://github-profile-trophy.vercel.app/?username=rootsher&theme=monokai&title=LongTimeUser,Organizations,Commits,Experience,Stars,Repositories,Followers,Issues" />
