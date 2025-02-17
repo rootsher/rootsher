@@ -1,4 +1,4 @@
-## Technologies and Tools (in progress - looking for badges...xd) 🚀
+## Technologies and Tools (in progress - looking for badges...xd)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)
