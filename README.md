@@ -16,6 +16,7 @@ Building systems across software, infrastructure, reliability, security, AI and 
 ![Technical Leadership](https://img.shields.io/badge/Technical%20Leadership-222222?style=flat-square)
 
 Explore my interactive engineering skills map → **[skills.rootsher.dev](https://skills.rootsher.dev)**
+Technical writing on systems, architecture and reliability → **[blog.rootsher.dev](https://blog.rootsher.dev)**
 
 I work close to the whole system - from code and architecture to production, failure modes and attack surface.
 
